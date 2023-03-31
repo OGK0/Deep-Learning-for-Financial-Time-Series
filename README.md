@@ -2,11 +2,6 @@
 
 CQF Final Project
 
-In recent years, deep learning for analyzing equity data has become more popular,
-given the increasingly large amount of data sources being compiled and
-the proliferation of relatively inexpensive compute power available to train such
-models via GPUs. This has given rise to a plethora of systematic trading strategies
-to determine buy and sell opportunities.
 The objective of this study was to produce a model in order to predict
 positive moves (up trend) using the Long Short-Term Memory (LSTM) model
 and other recurrent neural architectures. The models were tested on equity data,
